@@ -13,6 +13,7 @@ Input and Output:
   -i, --input             Input FASTA file
   -o, --output            Output directory
   -r, --refs              fasta file contain all 16S rRNA sequence from NCBI
+Parameters:
   -t, --threads           Threads to use for BLAST searches
   -v, --version           Show version number and exit
 ```

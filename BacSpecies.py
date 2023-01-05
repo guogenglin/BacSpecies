@@ -74,7 +74,6 @@ def get_best_result(inputfile, refs, threads, database):
     	file.write(out)
     	'''
     blast_hits = []
-    print
     for line in line_iterator(out):
         blast_hits.append(BlastResult(line))
     best_match = []

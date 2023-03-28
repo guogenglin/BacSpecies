@@ -139,6 +139,7 @@ def output(outdir, best_match, inputfile):
     table.close()
         
 def main():
+    print('presented by Genglin Guo')
     # Initialize
     starttime = time.perf_counter()
     args = get_argument().parse_args()

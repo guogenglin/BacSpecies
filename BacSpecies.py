@@ -3,7 +3,9 @@
 Created on Wed Jan  4 14:04:53 2023
 
 @author: Genglin Guo
+e-mail : 2019207025@njau.edu.cn
 """
+
 import argparse
 import sys
 import pathlib

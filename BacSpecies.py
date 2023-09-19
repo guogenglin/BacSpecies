@@ -141,7 +141,7 @@ def output(outdir, best_match, inputfile):
     table.close()
         
 def main():
-    print('If you have any quesions or suggestions for BacSpecies, please contact Genglin Guo, e-mail: 2019207025@njau.edu.cn')
+    print('If you have any questions or suggestions for BacSpecies, please contact Genglin Guo, e-mail: 2019207025@njau.edu.cn')
     print('presented by Genglin Guo')
     # Initialize
     starttime = time.perf_counter()
